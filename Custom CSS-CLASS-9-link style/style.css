@@ -1,0 +1,19 @@
+a:link{
+   color: red;
+   background-color: lightgreen;
+}
+a:visited{color: green;
+}
+a{
+   display: inline-block;
+   color: white;
+   background-color: turquoise;
+   text-decoration: none;
+   padding: 10px 30px;
+   border-radius: 5px;
+   transition: 0.5s;
+}
+a:hover{
+   color: #fff;
+   background-color: tomato;
+}
